@@ -56,8 +56,8 @@
       "type": "image/png"
     }
   ],
-  "name": "Year Calendar",
-  "short_name": "Year Cal",
+  "name": "YearCal by Misi",
+  "short_name": "YearCal",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
