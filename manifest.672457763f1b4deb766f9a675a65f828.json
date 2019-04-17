@@ -56,8 +56,8 @@
       "type": "image/png"
     }
   ],
-  "name": "YearCal",
-  "short_name": "YearCal",
+  "name": "Year Cal",
+  "short_name": "Year Cal",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
