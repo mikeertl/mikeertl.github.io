@@ -1,0 +1,10 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorCustomizations": {
+    "[Default Dark+]": {
+      "editor.background": "#022027",
+      "sideBar.background": "#0b3001",
+      "editorSuggestWidget.selectedBackground": "#254b4b"
+    }
+  }
+}
