@@ -1,57 +1,57 @@
 {
   "icons": [
     {
-      "src": "/icon_512x512.8ba7dff5b2acb045391107bda797854c.png",
+      "src": "/icon_512x512.1281b476337241eec458277ebd7a3f44.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/icon_384x384.41dec91b3b55c42004a98cd7c18ad94b.png",
+      "src": "/icon_384x384.d2f67bf589572abd4d69153c344cd959.png",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "/icon_192x192.840bdbb00cf2736eeeb0f46bf9a1e0f5.png",
+      "src": "/icon_192x192.b7831e647471bffde66f08772de6106f.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/icon_180x180.2ceaa0e3d06c41f9a70ffa94d0deec0f.png",
+      "src": "/icon_180x180.b973745d52d2ffaa261f940840c4a5c9.png",
       "sizes": "180x180",
       "type": "image/png"
     },
     {
-      "src": "/icon_167x167.ad14c1206a5c7c79612f8b38d0df2ed6.png",
+      "src": "/icon_167x167.8f6726669a1ca1344f3d9f633f597e55.png",
       "sizes": "167x167",
       "type": "image/png"
     },
     {
-      "src": "/icon_152x152.4599d920b4de6728fcd4713398e20731.png",
+      "src": "/icon_152x152.51e3971e7062982e62acc06f51cfc24a.png",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "/icon_144x144.0ddb210b2c3fef99507cae2a6cb3a33d.png",
+      "src": "/icon_144x144.f775770ca5712f79caa2e8eadbe9a39f.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "/icon_128x128.7e7577327748ab44628d24233fbf372f.png",
+      "src": "/icon_128x128.a36d450b5f2ef3c4615ff3bc852fcdff.png",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "/icon_120x120.305f53ad6af57f35d21235d11ee74486.png",
+      "src": "/icon_120x120.d579f65da5069172bb94f8ce1f491d1f.png",
       "sizes": "120x120",
       "type": "image/png"
     },
     {
-      "src": "/icon_96x96.36b9d7ba88c17f8e8ac48ba14c133996.png",
+      "src": "/icon_96x96.44e235d843598a35ebfc3c4c23967846.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "/icon_72x72.861eb2cc6cfe3abc7a951761d5c288f7.png",
+      "src": "/icon_72x72.185c9891f891fa416bb17bee9937b61e.png",
       "sizes": "72x72",
       "type": "image/png"
     }
